@@ -19,6 +19,7 @@ set_time_limit(0);
         *              ....it was fun and maybe a small cash injection....
         *				
         */
+		
      
             static $rate = 2; //0
             $user = "USERMANE";
