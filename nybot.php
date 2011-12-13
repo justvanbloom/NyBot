@@ -1,6 +1,7 @@
 <?php
 session_start();
 set_time_limit(0);
+ini_set('display_errors',0);
 
 	/*
 	*      @author: JustVanBlooM.de
@@ -19,7 +20,6 @@ set_time_limit(0);
         *              ....it was fun and maybe a small cash injection....
         *				
         */
-		
      
             static $rate = 2; //0
             $user = "USERMANE";
